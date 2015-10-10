@@ -20,7 +20,7 @@ Function 2:
     
 ----------------------------------------------------------------------------------------
 Function 3: 
-            size_t str_all_digits(const char s[]);
+            int str_all_digits(const char s[]);
             
     Returns 1 if the String s consits entirely of digits; otherwise returns 0.
        
